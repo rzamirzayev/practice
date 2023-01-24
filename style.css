@@ -1,0 +1,20 @@
+.Product-information{
+    min-width: 100px;
+    max-width: 300px;
+    min-height: 50px;
+    max-height: 200px;
+    overflow: auto;
+    
+
+    
+}
+
+#Product img{
+    height: 400px;
+    width: 350px;
+    
+}
+h1{
+    text-align: center;
+   
+}
